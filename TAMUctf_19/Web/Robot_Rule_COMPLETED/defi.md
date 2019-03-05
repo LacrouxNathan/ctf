@@ -2,11 +2,13 @@
 
 Le site parle de robots
 
-Rien dans le source.
+Rien dans le source code.
 
-Bien entendu comme le titre le dit il y a un fichier dans :
+Bien entendu comme le titre l'indique il y a un fichier robots.txt :
 
 www.url.com/robots.txt
+
+On peut y lire :
 
 ```
 User-agent: *

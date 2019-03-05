@@ -11,7 +11,7 @@ en fait :
 * "di" et "dit" => "."
 * "dah"		=> "-"
 
-plus qu'a traduire le tout
+Plus qu'a traduire le tout
 
 ## Script python
 
@@ -41,6 +41,6 @@ pu traduire du morse en texte
 ## Putain c'est de l'hexa
 
 En fait apres 1h de recherche j'ai enfin compris que c'est de l'hexadecimal.
-il faut le traduire et hop le flag
+Il faut le traduire et hop le flag
 
 *gigem{C1icK_cl1CK-y0u_h4v3_m4I1}*
